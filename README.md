@@ -2,6 +2,9 @@
 
 # Galvanize Bookshelf
 
+https://eddie-galvanize-bookshelf.herokuapp.com/
+
+
 This is a multi-day assignment split into the following parts. Your task is to complete each part's assignment, one at a time, before moving on to the next part.
 
 1. [Knex Migrations and Seeds](1_migrations_seeds.md)
