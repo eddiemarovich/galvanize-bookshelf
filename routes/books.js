@@ -63,7 +63,7 @@ router.delete('/books/:id', (req, res, next) => {
   .returning(['title', 'author','genre', 'cover_url AS coverUrl', 'created_at AS createdAt', 'description'])
   .then(data => res.status(200).send(data[0]))
 })
-
+  
 // YOUR CODE HERE
 
 
